@@ -1,6 +1,6 @@
 {
-  "name": "graphql-subscriptions",
-  "version": "1.1.0",
+  "name": "@alugha/graphql-subscriptions",
+  "version": "1.1.1",
   "description": "GraphQL subscriptions for node.js",
   "main": "dist/index.js",
   "repository": {
